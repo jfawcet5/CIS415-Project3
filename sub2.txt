@@ -1,0 +1,21 @@
+get 1
+get 1
+get 1
+get 1
+get 1
+sleep 500
+get 2
+get 1
+sleep 250
+get 1
+get 1
+sleep 250
+get 3
+get 1
+get 1
+get 1
+get 1
+get 1
+get 1
+get 1
+stop

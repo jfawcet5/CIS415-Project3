@@ -1,0 +1,12 @@
+get 3
+sleep 100
+get 2
+sleep 100 
+get 1
+sleep 100
+get 3
+sleep 100
+get 2
+sleep 100
+get 1
+stop

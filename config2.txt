@@ -1,0 +1,13 @@
+create topic 1 "t1" 4
+create topic 2 "t2" 5
+create topic 3 "t3" 6
+query topics
+add publisher "pub1.txt"
+add publisher "pub2.txt"
+query publishers
+add subscriber "sub1.txt"
+add subscriber "sub2.txt"
+add subscriber "sub3.txt"
+query subscribers
+delta 4
+start
